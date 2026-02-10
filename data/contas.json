@@ -1,0 +1,272 @@
+[
+  {
+    "tipo": "corrente",
+    "numero": 1,
+    "agencia": "0001",
+    "cpf_cliente": "12345678901",
+    "saldo": 99499.0,
+    "historico": [
+      {
+        "tipo": "Deposito",
+        "valor": 99999.0,
+        "data": "10/02/2026 05:40:30"
+      },
+      {
+        "tipo": "Transferencia",
+        "valor": 500.0,
+        "data": "10/02/2026 05:51:12"
+      }
+    ],
+    "ativa": true,
+    "limite": 500.0,
+    "limite_saques": 3
+  },
+  {
+    "tipo": "corrente",
+    "numero": 2,
+    "agencia": "0001",
+    "cpf_cliente": "12312312312",
+    "saldo": 501.0,
+    "historico": [
+      {
+        "tipo": "Deposito",
+        "valor": 500.0,
+        "data": "10/02/2026 05:51:12"
+      },
+      {
+        "tipo": "Deposito",
+        "valor": 1.0,
+        "data": "10/02/2026 05:57:39"
+      }
+    ],
+    "ativa": true,
+    "limite": 500.0,
+    "limite_saques": 3
+  },
+  {
+    "tipo": "corrente",
+    "numero": 3,
+    "agencia": "0001",
+    "cpf_cliente": "46763043520",
+    "saldo": 3380.09,
+    "historico": [],
+    "ativa": true,
+    "limite": 500.0,
+    "limite_saques": 3
+  },
+  {
+    "tipo": "corrente",
+    "numero": 4,
+    "agencia": "0001",
+    "cpf_cliente": "82024649150",
+    "saldo": 17731.25,
+    "historico": [],
+    "ativa": true,
+    "limite": 500.0,
+    "limite_saques": 3
+  },
+  {
+    "tipo": "corrente",
+    "numero": 5,
+    "agencia": "0001",
+    "cpf_cliente": "61129587366",
+    "saldo": 10210.66,
+    "historico": [],
+    "ativa": true,
+    "limite": 500.0,
+    "limite_saques": 3
+  },
+  {
+    "tipo": "corrente",
+    "numero": 6,
+    "agencia": "0001",
+    "cpf_cliente": "91935414428",
+    "saldo": 12245.43,
+    "historico": [],
+    "ativa": true,
+    "limite": 500.0,
+    "limite_saques": 3
+  },
+  {
+    "tipo": "corrente",
+    "numero": 7,
+    "agencia": "0001",
+    "cpf_cliente": "73245670296",
+    "saldo": 12615.6,
+    "historico": [],
+    "ativa": true,
+    "limite": 500.0,
+    "limite_saques": 3
+  },
+  {
+    "tipo": "corrente",
+    "numero": 8,
+    "agencia": "0001",
+    "cpf_cliente": "99986689184",
+    "saldo": 22217.38,
+    "historico": [],
+    "ativa": true,
+    "limite": 500.0,
+    "limite_saques": 3
+  },
+  {
+    "tipo": "corrente",
+    "numero": 9,
+    "agencia": "0001",
+    "cpf_cliente": "34475953060",
+    "saldo": 2186.81,
+    "historico": [
+      {
+        "tipo": "Transferencia",
+        "valor": 1.0,
+        "data": "10/02/2026 05:57:39"
+      }
+    ],
+    "ativa": true,
+    "limite": 500.0,
+    "limite_saques": 3
+  },
+  {
+    "tipo": "corrente",
+    "numero": 10,
+    "agencia": "0001",
+    "cpf_cliente": "94546934856",
+    "saldo": 22932.68,
+    "historico": [],
+    "ativa": true,
+    "limite": 500.0,
+    "limite_saques": 3
+  },
+  {
+    "tipo": "corrente",
+    "numero": 11,
+    "agencia": "0001",
+    "cpf_cliente": "45092320083",
+    "saldo": 12112.72,
+    "historico": [],
+    "ativa": true,
+    "limite": 500.0,
+    "limite_saques": 3
+  },
+  {
+    "tipo": "corrente",
+    "numero": 12,
+    "agencia": "0001",
+    "cpf_cliente": "63299018737",
+    "saldo": 17070.39,
+    "historico": [],
+    "ativa": true,
+    "limite": 500.0,
+    "limite_saques": 3
+  },
+  {
+    "tipo": "corrente",
+    "numero": 13,
+    "agencia": "0001",
+    "cpf_cliente": "16302235760",
+    "saldo": 481.74,
+    "historico": [],
+    "ativa": true,
+    "limite": 500.0,
+    "limite_saques": 3
+  },
+  {
+    "tipo": "corrente",
+    "numero": 14,
+    "agencia": "0001",
+    "cpf_cliente": "19832255785",
+    "saldo": 4594.65,
+    "historico": [],
+    "ativa": true,
+    "limite": 500.0,
+    "limite_saques": 3
+  },
+  {
+    "tipo": "corrente",
+    "numero": 15,
+    "agencia": "0001",
+    "cpf_cliente": "18679096258",
+    "saldo": 14188.01,
+    "historico": [],
+    "ativa": true,
+    "limite": 500.0,
+    "limite_saques": 3
+  },
+  {
+    "tipo": "corrente",
+    "numero": 16,
+    "agencia": "0001",
+    "cpf_cliente": "68142284996",
+    "saldo": 12738.96,
+    "historico": [],
+    "ativa": true,
+    "limite": 500.0,
+    "limite_saques": 3
+  },
+  {
+    "tipo": "corrente",
+    "numero": 17,
+    "agencia": "0001",
+    "cpf_cliente": "49077738066",
+    "saldo": 12590.89,
+    "historico": [],
+    "ativa": true,
+    "limite": 500.0,
+    "limite_saques": 3
+  },
+  {
+    "tipo": "corrente",
+    "numero": 18,
+    "agencia": "0001",
+    "cpf_cliente": "18439611514",
+    "saldo": 14649.89,
+    "historico": [],
+    "ativa": true,
+    "limite": 500.0,
+    "limite_saques": 3
+  },
+  {
+    "tipo": "corrente",
+    "numero": 19,
+    "agencia": "0001",
+    "cpf_cliente": "95470768112",
+    "saldo": 14788.95,
+    "historico": [],
+    "ativa": true,
+    "limite": 500.0,
+    "limite_saques": 3
+  },
+  {
+    "tipo": "corrente",
+    "numero": 20,
+    "agencia": "0001",
+    "cpf_cliente": "98574483401",
+    "saldo": 14013.27,
+    "historico": [],
+    "ativa": true,
+    "limite": 500.0,
+    "limite_saques": 3
+  },
+  {
+    "tipo": "corrente",
+    "numero": 21,
+    "agencia": "0001",
+    "cpf_cliente": "69370627844",
+    "saldo": 6880.56,
+    "historico": [],
+    "ativa": true,
+    "limite": 500.0,
+    "limite_saques": 3
+  },
+  {
+    "tipo": "corrente",
+    "numero": 22,
+    "agencia": "0001",
+    "cpf_cliente": "94100750362",
+    "saldo": 12603.94,
+    "historico": [],
+    "ativa": true,
+    "limite": 500.0,
+    "limite_saques": 3
+  }
+]

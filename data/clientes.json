@@ -1,0 +1,310 @@
+{
+  "12345678901": {
+    "tipo": "pf",
+    "nome": "Maria Silva",
+    "data_nascimento": "20-03-1985",
+    "cpf": "12345678901",
+    "endereco": {
+      "logradouro": "Av Paulista",
+      "numero": "1000",
+      "bairro": "Bela Vista",
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "cep": "01310100"
+    }
+  },
+  "12312312312": {
+    "tipo": "pf",
+    "nome": "Giuseppe Camole",
+    "data_nascimento": "10-06-1998",
+    "cpf": "12312312312",
+    "endereco": {
+      "logradouro": "rua tal",
+      "numero": "69",
+      "bairro": "penha",
+      "cidade": "ERREJOTA",
+      "uf": "RJ",
+      "cep": ""
+    }
+  },
+  "46763043520": {
+    "tipo": "pf",
+    "nome": "Henrique Ribeiro",
+    "data_nascimento": "04-10-1968",
+    "cpf": "46763043520",
+    "endereco": {
+      "logradouro": "Rua das Palmeiras",
+      "numero": "6459",
+      "bairro": "Centro",
+      "cidade": "Fortaleza",
+      "uf": "CE",
+      "cep": "09901878"
+    }
+  },
+  "82024649150": {
+    "tipo": "pf",
+    "nome": "Samuel Santos",
+    "data_nascimento": "06-06-2004",
+    "cpf": "82024649150",
+    "endereco": {
+      "logradouro": "Rua do Comercio",
+      "numero": "5543",
+      "bairro": "Bela Vista",
+      "cidade": "Goiania",
+      "uf": "GO",
+      "cep": "31346031"
+    }
+  },
+  "61129587366": {
+    "tipo": "pf",
+    "nome": "Thiago Costa",
+    "data_nascimento": "07-06-1980",
+    "cpf": "61129587366",
+    "endereco": {
+      "logradouro": "Rua das Flores",
+      "numero": "3354",
+      "bairro": "Centro",
+      "cidade": "Salvador",
+      "uf": "BA",
+      "cep": "76994559"
+    }
+  },
+  "91935414428": {
+    "tipo": "pf",
+    "nome": "Camila Silva",
+    "data_nascimento": "26-07-1970",
+    "cpf": "91935414428",
+    "endereco": {
+      "logradouro": "Avenida Atlantica",
+      "numero": "1839",
+      "bairro": "Liberdade",
+      "cidade": "Sao Paulo",
+      "uf": "SP",
+      "cep": "98038743"
+    }
+  },
+  "73245670296": {
+    "tipo": "pf",
+    "nome": "Renata Souza",
+    "data_nascimento": "06-03-2002",
+    "cpf": "73245670296",
+    "endereco": {
+      "logradouro": "Avenida Brasil",
+      "numero": "2281",
+      "bairro": "Centro",
+      "cidade": "Porto Alegre",
+      "uf": "RS",
+      "cep": "57071959"
+    }
+  },
+  "99986689184": {
+    "tipo": "pf",
+    "nome": "Thiago Lima",
+    "data_nascimento": "01-10-1986",
+    "cpf": "99986689184",
+    "endereco": {
+      "logradouro": "Avenida Atlantica",
+      "numero": "8159",
+      "bairro": "Boa Viagem",
+      "cidade": "Curitiba",
+      "uf": "PR",
+      "cep": "54508817"
+    }
+  },
+  "34475953060": {
+    "tipo": "pf",
+    "nome": "Olivia Oliveira",
+    "data_nascimento": "21-02-1981",
+    "cpf": "34475953060",
+    "endereco": {
+      "logradouro": "Avenida Brasil",
+      "numero": "6587",
+      "bairro": "Barra",
+      "cidade": "Brasilia",
+      "uf": "DF",
+      "cep": "80103240"
+    }
+  },
+  "94546934856": {
+    "tipo": "pf",
+    "nome": "Talita Almeida",
+    "data_nascimento": "22-03-1968",
+    "cpf": "94546934856",
+    "endereco": {
+      "logradouro": "Rua das Flores",
+      "numero": "6801",
+      "bairro": "Centro",
+      "cidade": "Curitiba",
+      "uf": "PR",
+      "cep": "54692529"
+    }
+  },
+  "45092320083": {
+    "tipo": "pf",
+    "nome": "Joao Araujo",
+    "data_nascimento": "21-09-1998",
+    "cpf": "45092320083",
+    "endereco": {
+      "logradouro": "Alameda Verde",
+      "numero": "6604",
+      "bairro": "Copacabana",
+      "cidade": "Goiania",
+      "uf": "GO",
+      "cep": "88029785"
+    }
+  },
+  "63299018737": {
+    "tipo": "pf",
+    "nome": "Thiago Araujo",
+    "data_nascimento": "28-10-2004",
+    "cpf": "63299018737",
+    "endereco": {
+      "logradouro": "Travessa da Paz",
+      "numero": "3489",
+      "bairro": "Barra",
+      "cidade": "Goiania",
+      "uf": "GO",
+      "cep": "65385617"
+    }
+  },
+  "16302235760": {
+    "tipo": "pf",
+    "nome": "Paulo Rodrigues",
+    "data_nascimento": "18-06-1983",
+    "cpf": "16302235760",
+    "endereco": {
+      "logradouro": "Alameda Verde",
+      "numero": "6247",
+      "bairro": "Santo Antonio",
+      "cidade": "Fortaleza",
+      "uf": "CE",
+      "cep": "97262189"
+    }
+  },
+  "19832255785": {
+    "tipo": "pf",
+    "nome": "Renata Carvalho",
+    "data_nascimento": "19-08-1975",
+    "cpf": "19832255785",
+    "endereco": {
+      "logradouro": "Rua do Comercio",
+      "numero": "6090",
+      "bairro": "Bela Vista",
+      "cidade": "Rio de Janeiro",
+      "uf": "RJ",
+      "cep": "66206805"
+    }
+  },
+  "18679096258": {
+    "tipo": "pf",
+    "nome": "Carla Silva",
+    "data_nascimento": "11-03-1986",
+    "cpf": "18679096258",
+    "endereco": {
+      "logradouro": "Avenida Brasil",
+      "numero": "5264",
+      "bairro": "Pinheiros",
+      "cidade": "Belo Horizonte",
+      "uf": "MG",
+      "cep": "96388648"
+    }
+  },
+  "68142284996": {
+    "tipo": "pf",
+    "nome": "Olivia Ribeiro",
+    "data_nascimento": "25-10-1993",
+    "cpf": "68142284996",
+    "endereco": {
+      "logradouro": "Avenida Central",
+      "numero": "1748",
+      "bairro": "Liberdade",
+      "cidade": "Goiania",
+      "uf": "GO",
+      "cep": "14736113"
+    }
+  },
+  "49077738066": {
+    "tipo": "pf",
+    "nome": "Isabela Silva",
+    "data_nascimento": "27-10-1981",
+    "cpf": "49077738066",
+    "endereco": {
+      "logradouro": "Avenida Brasil",
+      "numero": "2992",
+      "bairro": "Pinheiros",
+      "cidade": "Curitiba",
+      "uf": "PR",
+      "cep": "73773966"
+    }
+  },
+  "18439611514": {
+    "tipo": "pf",
+    "nome": "Bruno Rodrigues",
+    "data_nascimento": "06-02-1979",
+    "cpf": "18439611514",
+    "endereco": {
+      "logradouro": "Avenida Atlantica",
+      "numero": "6505",
+      "bairro": "Liberdade",
+      "cidade": "Salvador",
+      "uf": "BA",
+      "cep": "59776279"
+    }
+  },
+  "95470768112": {
+    "tipo": "pf",
+    "nome": "Karen Oliveira",
+    "data_nascimento": "27-02-1983",
+    "cpf": "95470768112",
+    "endereco": {
+      "logradouro": "Rua das Palmeiras",
+      "numero": "8719",
+      "bairro": "Liberdade",
+      "cidade": "Brasilia",
+      "uf": "DF",
+      "cep": "35310168"
+    }
+  },
+  "98574483401": {
+    "tipo": "pf",
+    "nome": "Isabela Melo",
+    "data_nascimento": "06-06-2004",
+    "cpf": "98574483401",
+    "endereco": {
+      "logradouro": "Alameda Verde",
+      "numero": "7489",
+      "bairro": "Barra",
+      "cidade": "Brasilia",
+      "uf": "DF",
+      "cep": "65611816"
+    }
+  },
+  "69370627844": {
+    "tipo": "pf",
+    "nome": "Karen Nascimento",
+    "data_nascimento": "03-04-1973",
+    "cpf": "69370627844",
+    "endereco": {
+      "logradouro": "Rua das Palmeiras",
+      "numero": "6782",
+      "bairro": "Vila Nova",
+      "cidade": "Porto Alegre",
+      "uf": "RS",
+      "cep": "83589354"
+    }
+  },
+  "94100750362": {
+    "tipo": "pf",
+    "nome": "Talita Silva",
+    "data_nascimento": "21-05-1968",
+    "cpf": "94100750362",
+    "endereco": {
+      "logradouro": "Avenida Central",
+      "numero": "2338",
+      "bairro": "Pinheiros",
+      "cidade": "Rio de Janeiro",
+      "uf": "RJ",
+      "cep": "08408118"
+    }
+  }
+}
