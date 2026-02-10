@@ -353,7 +353,7 @@ Este projeto está licenciado sob a licença MIT - veja o arquivo [LICENSE](LICE
 
 ## 👨‍💻 Autor
 
-**Seu Nome** - [@seu-usuario](https://github.com/seu-usuario)
+**XAKCN** - [@seu-usuario](https://github.com/XAKCN)
 
 ---
 
